@@ -1,0 +1,47 @@
+.issue-details-container {
+    margin: 20px;
+  }
+  
+  .issue-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .issue-table th,
+  .issue-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+  
+  .issue-table th {
+    font-weight: bold;
+  }
+  
+  .user-avatar {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .go-back-link {
+    text-decoration: none;
+  }
+  
+  .go-back-button {
+    padding: 10px 20px;
+    background-color: #ccc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .go-back-button:hover {
+    background-color: #aaa;
+  }
+  .backcon{
+    margin: 20px;
+  }
